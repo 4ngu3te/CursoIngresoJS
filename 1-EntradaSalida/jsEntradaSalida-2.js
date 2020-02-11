@@ -7,3 +7,4 @@ function mostrar()
 	alert (nombre)
 }
 
+//eh gitbashhhh ponete pisho
