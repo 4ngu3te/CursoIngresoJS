@@ -50,12 +50,7 @@ function mostrar()
                 letramax=letra;
             }
 
-            if(numero==-100 || numero==100){
-                ceros=ceros+2;
-            }
-            else
-            {
-                if(numero%10==0)
+            if(numero==0){
                     ceros++;
             }
         respuesta=prompt('desea seguir ingresando datos?');

@@ -80,4 +80,5 @@ function mostrar()
 			respuesta=prompt("'s' para continuar");
 			contador++;
 		}while(respuesta=='s');
+		
 }
